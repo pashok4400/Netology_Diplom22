@@ -51,7 +51,7 @@ class RecipeViewModel(
             title = title
         ) ?: Recipe(
             id = RecipeRepository.NEW_RECIPE_ID,
-            author = "Sasha",
+            author = "Pasha",
             category = category,
             content = content,
             title = title,

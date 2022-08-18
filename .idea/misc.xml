@@ -15,7 +15,7 @@
         <entry key="..\:/Users/user1994/diplom/nerecipe/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/user1994/diplom/nerecipe/app/src/main/res/layout/add_or_edit_step_fragment.xml" value="0.19067028985507245" />
         <entry key="..\:/Users/user1994/diplom/nerecipe/app/src/main/res/layout/app_activity.xml" value="0.13768115942028986" />
-        <entry key="..\:/Users/user1994/diplom/nerecipe/app/src/main/res/layout/cooking_steps.xml" value="0.1" />
+        <entry key="..\:/Users/user1994/diplom/nerecipe/app/src/main/res/layout/cooking_steps.xml" value="0.2" />
         <entry key="..\:/Users/user1994/diplom/nerecipe/app/src/main/res/layout/current_recipe_fragment.xml" value="0.2" />
         <entry key="..\:/Users/user1994/diplom/nerecipe/app/src/main/res/layout/favorite_fragment.xml" value="0.264" />
         <entry key="..\:/Users/user1994/diplom/nerecipe/app/src/main/res/layout/feed_fragment.xml" value="0.264" />
@@ -23,7 +23,9 @@
         <entry key="..\:/Users/user1994/diplom/nerecipe/app/src/main/res/layout/filter_fragment.xml" value="0.264" />
         <entry key="..\:/Users/user1994/diplom/nerecipe/app/src/main/res/layout/recipe.xml" value="0.264" />
         <entry key="..\:/Users/user1994/diplom/nerecipe/app/src/main/res/layout/recipe_content_fragment.xml" value="0.17028985507246377" />
-        <entry key="..\:/Users/user1994/diplom/nerecipe/app/src/main/res/menu/navigation.xml" value="0.1" />
+        <entry key="..\:/Users/user1994/diplom/nerecipe/app/src/main/res/menu/navigation.xml" value="0.2" />
+        <entry key="..\:/Users/user1994/diplom/nerecipe/app/src/main/res/menu/options_recipe.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/user1994/diplom/nerecipe/app/src/main/res/menu/search_filter_menu.xml" value="0.19444444444444445" />
       </map>
     </option>
   </component>
