@@ -5,7 +5,7 @@ import androidx.room.*
 @Entity(tableName = "recipes")
 class RecipeEntity(
     @PrimaryKey(autoGenerate = true)
-    @ColumnInfo(name = "id")
+    @ColumnInfo(name = "idx")
     val id: Long,
     @ColumnInfo(name = "author")
     val author: String,
